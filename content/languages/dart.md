@@ -8,6 +8,9 @@ weight: 4
 | pub.dev  | https://pub.dev/packages/dartzmq                  |
 | Examples | https://github.com/enwi/dartzmq/tree/main/example |
 
+## ❗ Important ❗
+
+`dartzmq` does not currently work on Macos. See [issue here](https://github.com/enwi/dartzmq/issues/44)
 
 ## Installation
 
