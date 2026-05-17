@@ -6,9 +6,9 @@ toc: true
 
 ## OMQ - pure Ruby, wire-compatible with libzmq
 
-Pure Ruby ZeroMQ implementation. No C extensions, no libzmq dependency. Faster than any binding in both throughput and latency. All standard socket types, TCP/IPC/inproc transports, CURVE/PLAIN mechanisms, lz4+tcp:// and zstd+tcp:// compression transports.
+Pure Ruby ZeroMQ implementation. No C extensions, no libzmq dependency. Faster than any binding in both throughput and latency. All standard and draft socket types, TCP/IPC/inproc transports, CURVE/PLAIN/BLAKE3ZMQ mechanisms, lz4+tcp:// and zstd+tcp:// compression transports.
 
-| Github | https://github.com/paddor/omq                |
+| Github | https://github.com/zeromq/omq.rb              |
 |--------|----------------------------------------------|
 | gem    | https://rubygems.org/gems/omq                |
 | CLI    | https://rubygems.org/gems/omq-cli            |
